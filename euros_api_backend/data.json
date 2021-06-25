@@ -1,0 +1,32 @@
+{
+    "data":
+    [{
+        "team" : "england",
+        "squad" : [
+            "Jordan Pickford",
+            "Harry Kane",
+            "Raheem Sterling",
+            "Mason Mount",
+            "John Stones",
+            "Kalvin Phillips",
+            "Bukayo Saka",
+            "Kyle Walker"
+        ],
+        "status" : "qualified"     
+    },
+    {
+        "team" : "wales",
+        "squad" : [
+            "Bale",
+            "Ramsey"
+        ],
+        "status" : "qualified"    
+    },
+    {
+        "team" : "scotland",
+        "squad" : [
+            "Gilmour"
+        ],
+        "status" : "eliminated"    
+    }]      
+}
